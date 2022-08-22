@@ -1,6 +1,7 @@
 body {
   padding: 50px;
-  background-color: aqua;
+  padding-bottom: 500px;
+  background-color: rgb(128, 154, 154);
 }
 h1 {
 color: bisque;
